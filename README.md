@@ -1,2 +1,3 @@
 # node_app
-node_app
+npm install
+npm run dev
